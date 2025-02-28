@@ -188,5 +188,5 @@ function searchBook(event) {
 Dengan penjelasan ini, Anda dapat memahami fungsi `main.js` dalam aplikasi Bookshelf App. Semoga sukses! 🚀
 
 
-# Bintang yang saya dapatkan
-! [bintang](bintang.png)
+# Bintang yang saya dapatkan   
+![logo](bintang.png)
