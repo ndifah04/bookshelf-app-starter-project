@@ -189,4 +189,4 @@ Dengan penjelasan ini, Anda dapat memahami fungsi `main.js` dalam aplikasi Books
 
 
 # Bintang yang saya dapatkan
-![bintang.png]bintang
+! [bintang.png]bintang
